@@ -10,10 +10,10 @@ Start Docker containers and add connectors.
 ./start-up.sh
 ```
 
-Install node modules and go to src.
+Install node modules.
 ```sh
-yarn
 cd src
+yarn
 ```
 
 Build the sample materialized view.
