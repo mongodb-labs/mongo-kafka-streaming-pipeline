@@ -5,7 +5,7 @@
 Before getting started, please make sure you have Docker installed. See the following documentation to do so: https://docs.docker.com/get-docker/
 
 
-Start Docker containers.
+Start Docker containers and add connectors.
 ```sh
 ./start-up.sh
 ```
