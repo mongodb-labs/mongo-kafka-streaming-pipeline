@@ -1,4 +1,4 @@
-# Using MongoDB as a Kafka Sink
+# Using MongoDB Change Streams as a ELT pipeline
 
 ### Installation
 
