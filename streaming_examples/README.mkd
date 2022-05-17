@@ -1,0 +1,9 @@
+# Usage
+In one terminal window, run
+```
+python3 case31.py # or case32.py depending to the test case
+```
+In another terminal window, run
+```
+python3 stream_writer.py test1.in.csv
+```
