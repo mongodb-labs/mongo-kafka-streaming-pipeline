@@ -1,3 +1,6 @@
+# Test Data
+Schema taken from: https://github.com/confluentinc/kafka-connect-datagen/blob/master/src/main/resources/clickstream_schema.avro
+
 # Usage
 In one terminal window, run
 ```
